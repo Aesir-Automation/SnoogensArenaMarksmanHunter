@@ -20,7 +20,7 @@ I recommend using this rotation together with Aimsharp's ArenaPVP Kicks plugin.
 **Trinket Support!**  
 •	DPS trinkets when you're Bursting, HP trinket when you're low  
 
-**Pet Support!**
+**Pet Support!**  
 •	Auto Call Pet 1-3, including auto res if out of combat  
 •	Auto Mend Pet if not Bursting  
 
@@ -66,3 +66,44 @@ I recommend using this rotation together with Aimsharp's ArenaPVP Kicks plugin.
 **Immunity Checks!**  
 • Don't waste focus on that immune guy, no point. Get some focus up with Steady Shots instead!  
 • Don't Scatter Shot him if he's immune due to an abiility or DR. I won't let you!  
+
+## Toggles:  
+`/xxxxx Burst`  
+Toggles Burst mode rotation On (off default)  
+`/xxxxx BurstPrep`  
+Toggles Burst Preparation mode rotation On (off default)  
+`/xxxxx PhialManual`  
+Toggles Phial of Serenity to be Manual (off default)  
+`/xxxxx DoubleTapManual`  
+Toggles Double Tap to be Manual (off by default, therefore Double Tap is Automatic when bursting)  
+`/xxxxx TrueshotManual`  
+Toggles Trueshot to be Manual (off by default, therefore Trueshot is Automatic when bursting) 
+`/xxxxx ResonatingArrowManual`  
+Toggles Resonating Arrow to be Manual (off by default, therefore Resonating Arrow is Automatic when bursting)  
+`/xxxxx WildSpiritsManual`  
+Toggles Wild Spirits to be Manual (off by default, therefore Wild Spirits is Automatic when bursting)  
+`/xxxxx ConcFocus`  
+Toggles Concussive Shot to be on Focus instead of Target (off by default, therefore Concussive Shot is on Target)  
+
+***
+
+## Queues:    
+
+`/xxxxx ResonatingArrow`  
+Queues Resonating Arrow on the next GCD  
+`/xxxxx WildSpirits`  
+Queues Wild Spirits on the next GCD  
+`/xxxxx BindingShot`  
+Queues Binding Shot on the next GCD  
+`/xxxxx FreezingTrap`  
+Queues Freezing Trap on the next GCD  
+`/xxxxx TarTrap`  
+Queues Tar Trap on the next GCD  
+`/xxxxx HiExplosiveTrap`  
+Queues Hi-Explosive Trap on the next GCD  
+`/xxxxx ScatterShot`  
+Queues Scatter Shot @ Target on the next GCD  
+`/xxxxx ScatterShotFocus`  
+Queues Scatter Shot @ Focus on the next GCD  
+`/xxxxx Flare`  
+Queues Flare on the next GCD  
