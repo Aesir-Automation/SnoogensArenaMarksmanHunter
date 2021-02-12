@@ -117,7 +117,7 @@ Queues Flare on the next GCD
 
 **Trinkets and Phial**
 **Top/Bottom Trinket:** - Set the one to `On-use DPS` that you want to use during Burst, i.e. your on-use damage trinket. Set to `On-use HP` to use automatically at 35%  
-**Auto Phial of Serenity @ HP%** - Uses your Phial of Serenity automatically at the set Health percentage.  
+**Auto Phial of Serenity @ HP%** - Uses your Phial of Serenity automatically at the set and below Health percentage.  
 **Auto Summon Steward** - Automatically Summons your Steward in Arena before the doors open so you won't forget your potions.  
 
 **Pet**  
@@ -129,13 +129,50 @@ Queues Flare on the next GCD
 **Auto Feign Death Interrupt:** - If you're not moving it will cast Feign Death to interrupt the cast of important spells such as CC or big damage like Chaos Bolt.  
 **Auto Feign Death Dispel:** - If you've got the Survival Tactics talent it will try to remove important debuffs such as Mindgames. If you've got the Craven Strategem Legendary it will also try to remove debuffs such as Spear of Bastion.  
 **Auto Cancel Feign Death:** - It will automatically cancel your Feign Death after it's been cast so you don't lose momentum.  
+**Auto Exhilaration @ HP%** - Uses Exhilaration automatically at the set and below Health percentage. 
+**Auto Turtle @ HP%** - Uses Aspect of the Turtle automatically at the set and below Health percentage. 
+**Auto Roar @ HP%** - Uses Roar of Sacrifice automatically at the set and below Health percentage. 
+**Auto Roar for Party Members:** - Enables the Auto Roar @ HP% to also check party members and Roar on them.  
+**Auto Healthstone @ HP%** - Uses Healthstone automatically at the set and below Health percentage. 
 
-**Auto Shout for Party Members:** - This will make it not only look at your HP%, but also your party members.  
-**Auto Shattering Throw:** - Enable automatic shattering throw as soon as you stand still if there's a Iceblock or Divine Shield on your target.  
-**Auto Disarm:** - Disarms the target as soon as they have Avatar or Avenging Wrath (only if Retribution).  
-**Auto Berserker:** - Casts Berserker Rage when you're feared or incapped, but not when Sapped.  
-**Auto Heroic Throw:** - Casts Heroic Throw on targets which are not under breakable CC to keep them in combat - however not when Bursting (to not use up a GCD).  
-**Auto Piercing Howl:** - Casts Piercing Howl when the target is just outside of range and doesn't have Hamstring debuff.  
-**Auto Focus non-target 2v2:** - Focuses whichever arena player you're currently not targetting in 2v2.  
-**Auto Focus Healer 3v3:** - Focuses the Healer in 3v3.  
-**Auto X @ HP%:** - Pops the mentioned ability at the defined HP% or below. Set to 100 to use as soon as its available e.g. Victory Rush, or to 0 to use manually e.g. Die by the Sword.  
+**Casting**  
+**Cast Traps @ Cursor:** - Changes your Traps to use @cursor instead of being manually placeable.  
+**Cast Covenant @ Cursor:** - Changes your Covenant Ability (Resonating Arrow/Wild Spirits) to use @cursor instead of being manually placeable.  
+**Cast Binding Shot @ Cursor:** - Changes your Binding Shot to use @cursor instead of being manually placeable.  
+
+**Miscellaneous**  
+**Auto Hunters Mark:** - Automatically places Hunter's Mark if there's a Rogue in Arena.  
+**Auto Tranquilizing Shot:** - Automatically shoots Tranquilizing Shot on target's with important buffs, such as Blessing of Protection, Alter Time etc.  
+**Auto Spider Sting:** - Automatically shoots Spider Sting on arena1-3 if they are casters with an important buff, such as Combustion etc.  
+**Auto Scorpid Sting:** - Automatically shoots Scorpid Sting on arena1-3 if they are a physical damage class with an important buff, such as Avatar, Shadow Dance etc.  
+**Auto Camouflage:** - Automatically uses Camouflage in Arena when the gates open. If your pet is on passive or dead it will automatically Camouflage after you Feign Death.  
+**Auto Retarget Feign Death:** - Automatically retargets the Hunter after your target drops from said Hunter's Feign Death.  
+
+**Auto Focus**  
+**Auto Focus non-target 2v2:** - Automatically sets focus on the enemy arena player who isn't your target in a 2v2.  
+**Auto Focus Healer 3v3:** - Automatically sets focus on the enemy arena player who is a Healer. One enemy player dies so only two remains, it falls back to focusing who isn't your target.  
+
+***
+
+## More to come, based on your feedback!  
+Please provide me with your direct feedback on my Discord - https://discord.gg/VksJWWk9PS.  
+A feature not working as expected? Rotation not performing what you believe is optimal? Anything! Please leave a note in #feedback-and-suggestions or #troubleshooting  
+
+***
+
+## Disclaimer:  
+I can't help you with Aimsharp client issues. If your Aimsharp doesn't work, please fix that first using the Aimsharp Discord.  
+Auto Feign Death Interrupt is what it is - i.e. you can never really know if a spell is being cast on you unless they target you (i.e. if they for instance use arena1-3 or focus macros), so it doesn't catch all - but it does catch quite a few, especially offensive spells!  
+
+***
+
+## Advanced Users:  
+You can use WeakAuras to see what you've toggled on, it helps to realize if you've kept Burst on but forgot about it.
+Here's an example for Burst.  
+`!WA:2!fxvZUnsrq4yIIwXCiSyqr7Yfmrak7s0QDbPiUebE8oMKvMeNXtsw4ItptxJNMDC3T6UhNFUG2CApWj)i4ZCYpbOCGRmyTpb7JqEbGQ7XjBccotlzpDxZN6QQV6RQPw76dRtRtF1NoHLi49efQeOwyIixOE2I4sD6UPPAWS13(Z)XF9BlSqTPeEsMq1vW4M4wb7efeolriYPIJ59oMjHJU4QJb0bqMIKyycUEJqTHOmEXPmotN55JpmENBuSbdaLE5pxnF7V7BovcXjfAJy4B0fXWiGB6vKMYozA)wn7f1VxuZWOqN94TasUj7ACDvaIlSx3GoDc5KHG27CTeYZ3MQ9kFp5FMwWDb0Ao4RpiVNrT(isEb8aVg4kxKqYBKmIO2Cv)cL2SQZmlTHdAdcN2Wb3TZzBZnTWByYaUdRDPatHI3Wi4fdJb1AvEyZnFIdbKRb8g5cZnUv7PQB(w3uimGPnGQ1be1AwhT(JRIuGt9WF(firglZjNcQWKmi5fL1NwXE9DmjY7McDf9ON26GMH93V7tBgfmHcXiTgHGuBf0PB797mUGpVmScsw)Y)ZK1JVzEkFFRsAeevfFFVGc)6cxIQqqXj5hGAimq37YxaGSjwXtmHem0Zgt4SH2D8nkF32ZOfk3bh1O0ak6P6YL95coCbq0agIaFGj7oNBpz5MYh6pKW4TlxR8bLlx(WYV4oLRJp8(Nwq(uJun6aiBckiTvou5)rVAfzDdCIPVoJG9fpVQJQ2yNn7FR(zs5DVbIwU2VA1QT4BQSc5PUgo)M7hTR8dCgjfyfgZLKdzutMFt84LUxG6FG6m(YzvnR)WCpEH79)eQnyPNwU0eLaLgqeA0FND3jOCzfg1wmtCaF7uGQqnvWnY72wXoRXEfekMNKgrr3k3UTNgX0S4C4OzUthlu0dve55hoFZSRVvNeC39J6S9obZzIBmMPCj5NCnxH4vyA3x23Wgc9LkiHzR8lkV))cMQnHwO036UESZG7pNBUQAi)4)lxqpfNJWsYIZa2GmZl9ZfeAQVsKdReoSi3W8gxOH(CSjrLfBi5yVYkLD98TYq7MWKCIwxzcDTDZeLtCytCF7K3zy5eJMDLUHLEJVUKxU05xnpnBIvTYQqesYLzKfLF4vV1wgFkttqcNM5BvhztmIKrvng3Rw)XRYOx46sBejgmihNXk4PSbEttv4Gsu4Jf0fdp2PCkp8OVSGrN(J71vTXZA187Y6OyC7LHJ0pz(3e(M1wWTUSIkBBVgBgf3RvyqWotPmTDU02OFU37S0ctz8kMfJNvK3JnGluW8moWoGjqPek9r(NjedRvxh(vp6jp6RRp61p)V)d`  
+Import this WeakAura and modify your Burst Toggle macro to look like this:  
+`/xxxxx Burst`  
+`/run local cvar="Burst" SetCVar(cvar,1-GetCVar(cvar),cvar)`  
+It will now toggle an Icon on your screen for when Burst is active.  
+Keep in mind that the WeakAura can get "out of sync" if you restart the rotation with this being active etc.  
+If you use BurstPrep, expect WeakAuras for Burst and BurstPrep to become completely out of sync.  
