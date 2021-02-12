@@ -107,3 +107,32 @@ Queues Scatter Shot @ Target on the next GCD
 Queues Scatter Shot @ Focus on the next GCD  
 `/xxxxx Flare`  
 Queues Flare on the next GCD  
+
+***
+
+## Settings:  
+**First 5 Letters of the Addon:** - enter your Aimsharp addon's first 5 letters, e.g. if your Aimsharp addon is called `DankMemes`, enter `dankm`.  
+**Ingame World Latency:** - enter your ingame World latency here to make sure rotation and queues are done asap.  
+**Reaction Time (ms):** - enter your preferred reaction time in milliseconds for features such as Hunter's Mark, Tranquilizing Shot etc. I recommend keeping it as default.  
+**Trinkets and Phial**
+**Top/Bottom Trinket:** - Set the one to `On-use DPS` that you want to use during Burst, i.e. your on-use damage trinket. Set to `On-use HP` to use automatically at 35%  
+**Auto Phial of Serenity @ HP%** - Uses your Phial of Serenity automatically at the set Health percentage.  
+**Auto Summon Steward** - Automatically Summons your Steward in Arena before the doors open so you won't forget your potions.  
+**Pet**
+**Auto Call Pet** - Automatically calls the selected pet number that you've selected. Will try to revive if the Pet is dead and you're out of combat.  
+**Call Pet Number:** - Uses the above mentioned feature on the selected pet number.  
+**Auto Mend Pet:** - Uses Mend Pet when the Pet is below 80% and it doesn't have the Mend Pet Buff.  
+**Mitigation**  
+**Auto Feign Death Interrupt:** - If you're not moving it will cast Feign Death to interrupt the cast of important spells such as CC or big damage like Chaos Bolt.  
+**Auto Feign Death Dispel:** - If you've got the Survival Tactics talent it will try to remove important debuffs such as Mindgames. If you've got the Craven Strategem Legendary it will also try to remove debuffs such as Spear of Bastion.  
+**Auto Cancel Feign Death:** - It will automatically cancel your Feign Death after it's been cast so you don't lose momentum.  
+
+**Auto Shout for Party Members:** - This will make it not only look at your HP%, but also your party members.  
+**Auto Shattering Throw:** - Enable automatic shattering throw as soon as you stand still if there's a Iceblock or Divine Shield on your target.  
+**Auto Disarm:** - Disarms the target as soon as they have Avatar or Avenging Wrath (only if Retribution).  
+**Auto Berserker:** - Casts Berserker Rage when you're feared or incapped, but not when Sapped.  
+**Auto Heroic Throw:** - Casts Heroic Throw on targets which are not under breakable CC to keep them in combat - however not when Bursting (to not use up a GCD).  
+**Auto Piercing Howl:** - Casts Piercing Howl when the target is just outside of range and doesn't have Hamstring debuff.  
+**Auto Focus non-target 2v2:** - Focuses whichever arena player you're currently not targetting in 2v2.  
+**Auto Focus Healer 3v3:** - Focuses the Healer in 3v3.  
+**Auto X @ HP%:** - Pops the mentioned ability at the defined HP% or below. Set to 100 to use as soon as its available e.g. Victory Rush, or to 0 to use manually e.g. Die by the Sword.  
