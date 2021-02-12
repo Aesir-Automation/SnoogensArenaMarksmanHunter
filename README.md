@@ -69,6 +69,9 @@ I recommend using this rotation together with Aimsharp's ArenaPVP Kicks plugin.
 • Don't waste focus on that immune guy, no point. Get some focus up with Steady Shots instead!  
 • Don't Scatter Shot him if he's immune due to an abiility or DR. I won't let you!  
 
+**Racial Support!**  
+• Pops your damaging Racial when it's supposed to!  
+
 ## Toggles:  
 `/xxxxx Burst`  
 Toggles Burst mode rotation On (off default)  
@@ -84,6 +87,8 @@ Toggles Trueshot to be Manual (off by default, therefore Trueshot is Automatic w
 Toggles Resonating Arrow to be Manual (off by default, therefore Resonating Arrow is Automatic when bursting)  
 `/xxxxx WildSpiritsManual`  
 Toggles Wild Spirits to be Manual (off by default, therefore Wild Spirits is Automatic when bursting)  
+`/xxxxx RacialManual`  
+Toggles Racial to be Manual (off by default, therefore Racial is Automatic when bursting)  
 `/xxxxx ConcFocus`  
 Toggles Concussive Shot to be on Focus instead of Target (off by default, therefore Concussive Shot is on Target)  
 
