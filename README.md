@@ -114,14 +114,17 @@ Queues Flare on the next GCD
 **First 5 Letters of the Addon:** - enter your Aimsharp addon's first 5 letters, e.g. if your Aimsharp addon is called `DankMemes`, enter `dankm`.  
 **Ingame World Latency:** - enter your ingame World latency here to make sure rotation and queues are done asap.  
 **Reaction Time (ms):** - enter your preferred reaction time in milliseconds for features such as Hunter's Mark, Tranquilizing Shot etc. I recommend keeping it as default.  
+
 **Trinkets and Phial**
 **Top/Bottom Trinket:** - Set the one to `On-use DPS` that you want to use during Burst, i.e. your on-use damage trinket. Set to `On-use HP` to use automatically at 35%  
 **Auto Phial of Serenity @ HP%** - Uses your Phial of Serenity automatically at the set Health percentage.  
 **Auto Summon Steward** - Automatically Summons your Steward in Arena before the doors open so you won't forget your potions.  
+
 **Pet**
 **Auto Call Pet** - Automatically calls the selected pet number that you've selected. Will try to revive if the Pet is dead and you're out of combat.  
 **Call Pet Number:** - Uses the above mentioned feature on the selected pet number.  
 **Auto Mend Pet:** - Uses Mend Pet when the Pet is below 80% and it doesn't have the Mend Pet Buff.  
+
 **Mitigation**  
 **Auto Feign Death Interrupt:** - If you're not moving it will cast Feign Death to interrupt the cast of important spells such as CC or big damage like Chaos Bolt.  
 **Auto Feign Death Dispel:** - If you've got the Survival Tactics talent it will try to remove important debuffs such as Mindgames. If you've got the Craven Strategem Legendary it will also try to remove debuffs such as Spear of Bastion.  
