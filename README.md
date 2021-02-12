@@ -120,7 +120,7 @@ Queues Flare on the next GCD
 **Auto Phial of Serenity @ HP%** - Uses your Phial of Serenity automatically at the set Health percentage.  
 **Auto Summon Steward** - Automatically Summons your Steward in Arena before the doors open so you won't forget your potions.  
 
-**Pet**
+**Pet**  
 **Auto Call Pet** - Automatically calls the selected pet number that you've selected. Will try to revive if the Pet is dead and you're out of combat.  
 **Call Pet Number:** - Uses the above mentioned feature on the selected pet number.  
 **Auto Mend Pet:** - Uses Mend Pet when the Pet is below 80% and it doesn't have the Mend Pet Buff.  
