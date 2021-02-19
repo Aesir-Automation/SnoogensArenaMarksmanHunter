@@ -19,6 +19,14 @@ I recommend using this rotation together with Aimsharp's ArenaPVP Kicks plugin.
 **Burst Mode!**  
 •	Optimized Burst rotation based on customized SimC APL simulations and experience  
 
+**Auto Target!**
+•	Makes youre your targeting a player, not a pet, mirror image etc!  
+•	If there's a Totem, all you have to do is press tab and it will skip the unecessary things to find the totem, Arcane Shot it then target an enemy again!  
+•	If there's a Wildseed, all you have to do is press tab and it will skip the unecessary things to find the Wildseed!  
+
+**Opener!**  
+• Not quite sure what to do when sitting in Camouflage? Well, pop a Binding Shot then press the Opener toggle. I recommend you're already in Burst mode to see some crazy action!  
+
 **Trinket Support!**  
 •	DPS trinkets when you're Bursting, HP trinket when you're low  
 
@@ -48,6 +56,7 @@ I recommend using this rotation together with Aimsharp's ArenaPVP Kicks plugin.
 
 **Auto Tranquilizing Shot!**  
 • BoP? Alter Time? Get it with Tranq as soon as it's up!  
+• Now featuring a full list so you can choose yourself!  
 
 **Auto Spider Sting!**  
 • That mage just popped Combustion? Hit him with a Spider Sting!  
@@ -57,9 +66,6 @@ I recommend using this rotation together with Aimsharp's ArenaPVP Kicks plugin.
 
 **Auto Camouflage!**  
 • Never forget to cast Camouflage when the arena starts! Your pet died, life's feeling short and you're about to die? Camo automatically when you Feign Death!  
-
-**Auto Retarget Feign Death!**  
-• Hunter just feigned and you lost your target? Well look, he's back! **not 100% functional in v1.0**  
 
 **Auto Focus!**  
 • You're playing 2v2, wouldn't it be nice that the one you're not shooting ends up as your focus for fast @focus Scatter Shot queus? Well, look no further!  
@@ -72,11 +78,29 @@ I recommend using this rotation together with Aimsharp's ArenaPVP Kicks plugin.
 **Racial Support!**  
 • Pops your damaging Racial when it's supposed to!  
 
+**The Hunt Turtle Reaction!**  
+• Pops Turtle when a Demon Hunter is about to one-shot you!  
+
+**AOE Toggle!**  
+• Enables automatic AOE based on the amount of enemies, amazing for BGs if you want to 'win' the damage!  
+
+**Scatter Shot Convoke!**  
+• Druid about to slam you and your team to the ground with a Convoke? Countershot isnt ready, or maybe they are immune to interrupts? BAM - Scatter Shot!  
+
+**Feign Death when Low!**
+• Last ditch effort to survive, Feign Death when you're low automatically! Works great when using Survival Tactics.  
+
+***
+
 ## Toggles:  
 `/xxxxx Burst`  
 Toggles Burst mode rotation On (off default)  
 `/xxxxx BurstPrep`  
 Toggles Burst Preparation mode rotation On (off default)  
+`/xxxxx AutoTarget`  
+Toggles Auto Target On (off default)  
+`/xxxxx AOE`  
+Toggles automatic AOE On (off default)  
 `/xxxxx PhialManual`  
 Toggles Phial of Serenity to be Manual (off default)  
 `/xxxxx DoubleTapManual`  
