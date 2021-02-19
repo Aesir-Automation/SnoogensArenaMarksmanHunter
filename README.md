@@ -1,4 +1,4 @@
-# Snoogens Arena Marksman Hunter v1.0  
+# Snoogens Arena Marksman Hunter v1.1  
 ![alt text](https://i.imgur.com/nbkVBnF.png)  
 
 A PVP only rotation with a specific focus on Arena, however with full support for Battleground usage.  
@@ -171,9 +171,11 @@ Queues Flare on the next GCD
 **Cast Covenant @ Cursor:** - Changes your Covenant Ability (Resonating Arrow/Wild Spirits) to use @cursor instead of being manually placeable.  
 **Cast Binding Shot @ Cursor:** - Changes your Binding Shot to use @cursor instead of being manually placeable.  
 
+**Tranquilizing Shot**  
+**Auto Tranquilizing Shot:** - Automatically shoots Tranquilizing Shot on target's with important buffs (according to selection below), such as Blessing of Protection, Alter Time etc.  
+
 **Miscellaneous**  
 **Auto Hunters Mark:** - Automatically places Hunter's Mark if there's a Rogue in Arena.  
-**Auto Tranquilizing Shot:** - Automatically shoots Tranquilizing Shot on target's with important buffs, such as Blessing of Protection, Alter Time etc.  
 **Auto Spider Sting:** - Automatically shoots Spider Sting on arena1-3 if they are casters with an important buff, such as Combustion etc.  
 **Auto Scorpid Sting:** - Automatically shoots Scorpid Sting on arena1-3 if they are a physical damage class with an important buff, such as Avatar, Shadow Dance etc.  
 **Auto Camouflage:** - Automatically uses Camouflage in Arena when the gates open. If your pet is on passive or dead it will automatically Camouflage after you Feign Death.  
