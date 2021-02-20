@@ -19,7 +19,7 @@ I recommend using this rotation together with Aimsharp's ArenaPVP Kicks plugin.
 **Burst Mode!**  
 •	Optimized Burst rotation based on customized SimC APL simulations and experience  
 
-**Auto Target!**
+**Auto Target!**  
 •	Makes youre your targeting a player, not a pet, mirror image etc!  
 •	If there's a Totem, all you have to do is press tab and it will skip the unecessary things to find the totem, Arcane Shot it then target an enemy again!  
 •	If there's a Wildseed, all you have to do is press tab and it will skip the unecessary things to find the Wildseed!  
