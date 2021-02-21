@@ -106,7 +106,7 @@ Toggles Phial of Serenity to be Manual (off default)
 `/xxxxx DoubleTapManual`  
 Toggles Double Tap to be Manual (off by default, therefore Double Tap is Automatic when bursting)  
 `/xxxxx TrueshotManual`  
-Toggles Trueshot to be Manual (off by default, therefore Trueshot is Automatic when bursting) 
+Toggles Trueshot to be Manual (off by default, therefore Trueshot is Automatic when bursting)  
 `/xxxxx ResonatingArrowManual`  
 Toggles Resonating Arrow to be Manual (off by default, therefore Resonating Arrow is Automatic when bursting)  
 `/xxxxx WildSpiritsManual`  
