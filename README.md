@@ -1,4 +1,4 @@
-# Snoogens Arena Marksman Hunter v1.1  
+# Snoogens Arena Marksman Hunter v1.2  
 ![alt text](https://i.imgur.com/M51UUzH.png)  
 
 A PVP only rotation with a specific focus on Arena, however with full support for Battleground usage.  
@@ -87,6 +87,9 @@ I recommend using this rotation together with Aimsharp's ArenaPVP Kicks plugin.
 **Scatter Shot Convoke!**  
 • Druid about to slam you and your team to the ground with a Convoke? Countershot isnt ready, or maybe they are immune to interrupts? BAM - Scatter Shot!  
 
+**Scatter Shot Focus while Bursting!**  
+• Don't want to think about CCing with Scatter while Bursting? No worries, I got it under control - I'll even make sure to not overlap with any other CC.  
+
 **Feign Death when Low!**
 • Last ditch effort to survive, Feign Death when you're low automatically! Works great when using Survival Tactics.  
 
@@ -140,6 +143,8 @@ Queues Scatter Shot @ Target on the next GCD
 Queues Scatter Shot @ Focus on the next GCD  
 `/xxxxx Flare`  
 Queues Flare on the next GCD  
+`/xxxxx ConcMO`  
+Queues Concussive Shot @ Mouseover, after casting one Concussive Shot it will be turned off (Not a Queue by default - read more in the Advanced section)    
 
 ***
 
@@ -202,6 +207,15 @@ Auto Feign Death Interrupt is what it is - i.e. you can never really know if a s
 ***
 
 ## Advanced Users:  
+
+Feature Management:  
+Here you can disable some features to enable others. This section exists due to macro limitations within the rotation (47), and will allow me to add more advanced features without deleting others.    
+If you for instance want to use ConcMO, you have to free up 2 macros - indicated by the number next to the feature name.   
+By disabling for instance AutoTarget, you free up 2 macros and can therefore use ConcMO.  
+If you get a "Couldn't create Macro" error message when loading the rotation, I suggest you go back here and check your configuration.  
+
+***
+
 You can use WeakAuras to see what you've toggled on, it helps to realize if you've kept Burst on but forgot about it.
 Here's an example for Burst.  
 `!WA:2!fxvZUnsrq4yIIwXCiSyqr7Yfmrak7s0QDbPiUebE8oMKvMeNXtsw4ItptxJNMDC3T6UhNFUG2CApWj)i4ZCYpbOCGRmyTpb7JqEbGQ7XjBccotlzpDxZN6QQV6RQPw76dRtRtF1NoHLi49efQeOwyIixOE2I4sD6UPPAWS13(Z)XF9BlSqTPeEsMq1vW4M4wb7efeolriYPIJ59oMjHJU4QJb0bqMIKyycUEJqTHOmEXPmotN55JpmENBuSbdaLE5pxnF7V7BovcXjfAJy4B0fXWiGB6vKMYozA)wn7f1VxuZWOqN94TasUj7ACDvaIlSx3GoDc5KHG27CTeYZ3MQ9kFp5FMwWDb0Ao4RpiVNrT(isEb8aVg4kxKqYBKmIO2Cv)cL2SQZmlTHdAdcN2Wb3TZzBZnTWByYaUdRDPatHI3Wi4fdJb1AvEyZnFIdbKRb8g5cZnUv7PQB(w3uimGPnGQ1be1AwhT(JRIuGt9WF(firglZjNcQWKmi5fL1NwXE9DmjY7McDf9ON26GMH93V7tBgfmHcXiTgHGuBf0PB797mUGpVmScsw)Y)ZK1JVzEkFFRsAeevfFFVGc)6cxIQqqXj5hGAimq37YxaGSjwXtmHem0Zgt4SH2D8nkF32ZOfk3bh1O0ak6P6YL95coCbq0agIaFGj7oNBpz5MYh6pKW4TlxR8bLlx(WYV4oLRJp8(Nwq(uJun6aiBckiTvou5)rVAfzDdCIPVoJG9fpVQJQ2yNn7FR(zs5DVbIwU2VA1QT4BQSc5PUgo)M7hTR8dCgjfyfgZLKdzutMFt84LUxG6FG6m(YzvnR)WCpEH79)eQnyPNwU0eLaLgqeA0FND3jOCzfg1wmtCaF7uGQqnvWnY72wXoRXEfekMNKgrr3k3UTNgX0S4C4OzUthlu0dve55hoFZSRVvNeC39J6S9obZzIBmMPCj5NCnxH4vyA3x23Wgc9LkiHzR8lkV))cMQnHwO036UESZG7pNBUQAi)4)lxqpfNJWsYIZa2GmZl9ZfeAQVsKdReoSi3W8gxOH(CSjrLfBi5yVYkLD98TYq7MWKCIwxzcDTDZeLtCytCF7K3zy5eJMDLUHLEJVUKxU05xnpnBIvTYQqesYLzKfLF4vV1wgFkttqcNM5BvhztmIKrvng3Rw)XRYOx46sBejgmihNXk4PSbEttv4Gsu4Jf0fdp2PCkp8OVSGrN(J71vTXZA187Y6OyC7LHJ0pz(3e(M1wWTUSIkBBVgBgf3RvyqWotPmTDU02OFU37S0ctz8kMfJNvK3JnGluW8moWoGjqPek9r(NjedRvxh(vp6jp6RRp61p)V)d`  
