@@ -1,4 +1,4 @@
-# Snoogens Arena Marksman Hunter v1.2  
+# Snoogens Arena Marksman Hunter v1.3  
 ![alt text](https://i.imgur.com/M51UUzH.png)  
 
 A PVP only rotation with a specific focus on Arena, however with full support for Battleground usage.  
@@ -92,6 +92,9 @@ I recommend using this rotation together with Aimsharp's ArenaPVP Kicks plugin.
 
 **Feign Death when Low!**
 • Last ditch effort to survive, Feign Death when you're low automatically! Works great when using Survival Tactics.  
+
+**Auto Bursting Shot!**  
+• Automatically casts Bursting Shot when a Melee is in Range.  
 
 ***
 
