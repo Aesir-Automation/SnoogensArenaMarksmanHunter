@@ -221,7 +221,7 @@ If you get a "Couldn't create Macro" error message when loading the rotation, I 
 ***
 
 You can use WeakAuras to see what you've toggled on, it helps to realize if you've kept Burst on but forgot about it.  
-Import this WeakAura group: https://wago.io/55P9gwoMP
+Import this WeakAura group: https://wago.io/55P9gwoMP  
 Password: aimsharp  
 Once imported, you just need to add one row to each of your toggle Macros.  
 **Aimsharp Toggle:**  
