@@ -1,5 +1,5 @@
 # Snoogens Arena Marksman Hunter v1.3  
-![alt text](https://i.imgur.com/M51UUzH.png)  
+![alt text](https://i.imgur.com/hkIYw42.png)  
 
 A PVP only rotation with a specific focus on Arena, however with full support for Battleground usage.  
 Supports any level.  
