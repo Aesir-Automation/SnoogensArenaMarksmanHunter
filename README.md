@@ -20,11 +20,6 @@ I recommend using this rotation together with Aimsharp's ArenaPVP Kicks plugin.
 **Burst Mode!**  
 •	Optimized Burst rotation based on customized SimC APL simulations and experience  
 
-**Auto Target!**  
-•	Makes sure you're your targeting a player, not a pet, mirror image etc!  
-•	If there's a Totem, all you have to do is press tab and it will skip the unecessary things to find the totem, Arcane Shot it then target an enemy again!  
-•	If there's a Wildseed, all you have to do is press tab and it will skip the unecessary things to find the Wildseed!  
-
 **Opener!**  
 • Not quite sure what to do when sitting in Camouflage? Well, pop a Binding Shot then press the Opener toggle. I recommend you're already in Burst mode to see some crazy action!  
 
@@ -106,8 +101,6 @@ Toggles Burst mode rotation On (off default)
 Toggles Burst Preparation mode rotation On (off default) - conserves Focus and an Aimed Shot charge, waiting for LnL proc, then puts you in Burst mode.    
 `/xxxxx Opener`  
 Toggles Opener mode On (off default) - automatically turns Off once Opener is started, I recommend you're in Burst mode while using this.    
-`/xxxxx AutoTarget`  
-Toggles Auto Target On (off default)  
 `/xxxxx AOE`  
 Toggles automatic AOE On (off default)  
 `/xxxxx PhialManual`  
