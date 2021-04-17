@@ -212,23 +212,3 @@ By disabling for instance AutoTarget, you free up 2 macros and can therefore use
 If you get a "Couldn't create Macro" error message when loading the rotation, I suggest you go back here and check your configuration.  
 
 ***
-
-You can use WeakAuras to see what you've toggled on, it helps to realize if you've kept Burst on but forgot about it.  
-Import this WeakAura group: https://wago.io/55P9gwoMP  
-Password: aimsharp  
-Once imported, you just need to add one row to each of your toggle Macros.  
-**Aimsharp Toggle:**  
-`/xxxxx toggle`  
-`/run local cvar="Toggle" SetCVar(cvar,1-GetCVar(cvar),cvar)`  
-**Burst:**  
-`/xxxxx Burst`  
-`/run local cvar="Burst" SetCVar(cvar,1-GetCVar(cvar),cvar)`  
-**Concussive Focus:**  
-`/xxxxx ConcFocus`  
-`/run local cvar="ConcFocus" SetCVar(cvar,1-GetCVar(cvar),cvar)`  
-**Auto Target:**  
-`/xxxxx AutoTarget`  
-`/run local cvar="AutoTarget" SetCVar(cvar,1-GetCVar(cvar),cvar)`  
-
-Keep in mind that the WeakAura can get "out of sync" if you restart the rotation with this being active etc.  
-To reset it, /reload when the icon **isn't** showing if it becomes out of sync.  
