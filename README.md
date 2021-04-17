@@ -198,17 +198,7 @@ A feature not working as expected? Rotation not performing what you believe is o
 ***
 
 ## Disclaimer:  
-I can't help you with Aimsharp client issues. If your Aimsharp doesn't work, please fix that first using the Aimsharp Discord.  
-Auto Feign Death Interrupt is what it is - i.e. you can never really know if a spell is being cast on you unless they target you (i.e. if they for instance use arena1-3 or focus macros), so it doesn't catch all - but it does catch quite a few, especially offensive spells!  
+I can't help you with Aimsharp client issues. If your Aimsharp doesn't work, please fix that first using the Aimsharp Discord. Possible fixes include, but aren't limited to: removing your save.dat file in the rotation folder, deleting your Aimsharp addon in the WoW interface folder, reinstalling Aimsharp, turning off AA and MSAA in your ingame Graphics settings etc.
 
 ***
 
-## Advanced Users:  
-
-Feature Management:  
-Here you can disable some features to enable others. This section exists due to macro limitations within the rotation (47), and will allow me to add more advanced features without deleting others.    
-If you for instance want to use ConcMO, you have to free up 2 macros - indicated by the number next to the feature name.   
-By disabling for instance AutoTarget, you free up 2 macros and can therefore use ConcMO.  
-If you get a "Couldn't create Macro" error message when loading the rotation, I suggest you go back here and check your configuration.  
-
-***
