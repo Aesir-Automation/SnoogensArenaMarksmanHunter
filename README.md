@@ -95,6 +95,8 @@ Password: `aimsharp`
 • 2v2 - Automatically focuses whoever you're not targeting  
 • 3v3 - Automatically focuses the Healer  
 
+**WeakAuras Support!**  
+• See what toggles are On/Off using custom WeakAuras  
 
 ***
 
