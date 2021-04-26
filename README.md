@@ -10,87 +10,88 @@ Unzip and place the `Snoogens-Arena-Marksman-Hunter` folder under your Aimsharp 
 Place the `license.txt` file you've recieved by email after purchasing in the `Snoogens-Arena-Marksman-Hunter` folder.  
 
 I recommend using this rotation together with Aimsharp's ArenaPVP Kicks plugin.  
+If you use Aimsharp's ArenaPVP Kicks plugin, please download the modified version from my Discord.  
+Channel `#changelog-aimsharp-arenakicks`  
+If you don't you will reach the macro limit  
 
 ***
 
 ## Featuring:  
-**Reaction Time!**  
-•	Customize how fast you want to react with things such as Auto Tranq  
-
 **Burst Mode!**  
 •	Optimized Burst rotation based on customized SimC APL simulations and experience  
 
+**Reaction Time!**  
+•	Customize how fast you want the rotation to react with things such as Auto Tranquilizing Shot, Auto Hunter's Mark etc    
+
 **Opener!**  
-• Not quite sure what to do when sitting in Camouflage? Well, pop a Binding Shot then press the Opener toggle. I recommend you're already in Burst mode to see some crazy action!  
+• Starts the Opener Rotation when Out of Combat  
+
+**Covenant Support!**  
+• Supports all Covenants  
+
+**Racial Support!**  
+• Pops your damage boosting Racials at the optimal time    
 
 **Trinket Support!**  
 •	DPS trinkets when you're Bursting, HP trinket when you're low  
 
 **Pet Support!**  
 •	Auto Call Pet 1-3, including auto res if out of combat  
-•	Auto Mend Pet if not Bursting  
+•	Auto Mend Pet  
 
 **Automatic Defensives/Mitigations!**  
+•	Healthstone @ HP%  
 •	Auto Phial of Serenity @ HP%  
-•	Auto Summon Steward (so you don't forget your Phial!)  
+•	Auto Summon Steward  
 •	Auto Feign Death to Interrupt important offensive casts  
 •	Auto Feign Death to Dispel important magic debuffs with Survival Tactics  
 •	Auto Feign Death to Dispel important debuffs with Craven Strategem Legendary  
 •	Auto Cancel Feign Death to not lose momentum  
 •	Auto Exhilaration @ HP%  
 •	Auto Aspect of the Turtle @ HP%  
-•	Auto Roar of Sacrifice @ HP% (for you and your team mates!)  
-•	Healthstone @ HP%  
+•	Auto Aspect of the Turtle when a DH casts The Hunt  
+•	Auto Roar of Sacrifice @ HP% (Player / Party)  
+•	Auto Dispel Mindgames using Fireblood/Stoneform    
 
 **Placeable or @Cursor Casts!**  
 • Choose if you want to Cast Traps @ Cursor or not  
 • Choose if you want to Cast Covenant ability @ Cursor or not  
 • Choose if you want to Cast Binding Shot @ Cursor or not  
 
-**Auto Hunter's Mark!**  
-• Never forget to keep the rogue marked!  
-
 **Auto Tranquilizing Shot!**  
-• BoP? Alter Time? Get it with Tranq as soon as it's up!  
-• Now featuring a full list so you can choose yourself!  
+• Full list of which Buffs you want to trigger Auto Tranq  
+
+**Scatter Shot Focus while Bursting!**  
+• Casts Scatter Shot on your Focus during Burst while doing various checks to make sure you're not overlapping CC or casting into Immune players  
+
+**Auto Hunter's Mark!**  
+• Keeps the Rogue marked, or if there's a mage popping Invisibility    
 
 **Auto Spider Sting!**  
-• That mage just popped Combustion? Hit him with a Spider Sting!  
+• Casts Spider Sting on an enemy player using offensive buffs such as Combustion    
 
 **Auto Scorpid Sting!**  
-• That Warrior just popped Avatar? The Ret Paladin popped Wings? The Rouge started Dancing? Hit them with a Scorpid Sting!  
+• Casts Scorpid Sting on an enemy player using offensive buffs such as Avatar  
 
 **Auto Camouflage!**  
-• Never forget to cast Camouflage when the arena starts! Your pet died, life's feeling short and you're about to die? Camo automatically when you Feign Death!  
-
-**Auto Focus!**  
-• You're playing 2v2, wouldn't it be nice that the one you're not shooting ends up as your focus for fast @focus Scatter Shot queus? Well, look no further!  
-• You're playing 3v3, wouldn't it be nice if that Healer ended up as your focus target? Once again, look no further!  
+• Automatically casts Camouflage when the doors open in Arena    
 
 **Immunity Checks!**  
-• Don't waste focus on that immune guy, no point. Get some focus up with Steady Shots instead!  
-• Don't Scatter Shot him if he's immune due to an abiility or DR. I won't let you!  
-
-**Racial Support!**  
-• Pops your damaging Racial when it's supposed to!  
-
-**The Hunt Turtle Reaction!**  
-• Pops Turtle when a Demon Hunter is about to one-shot you!  
+• Checks against all possible immunities (including DR) before doing any abilities, stuns etc. Fully dynamic based on what each ability does  
 
 **AOE Toggle!**  
 • Enables automatic AOE based on the amount of enemies, amazing for BGs if you want to 'win' the damage!  
 
-**Scatter Shot Convoke!**  
-• Druid about to slam you and your team to the ground with a Convoke? Countershot isnt ready, or maybe they are immune to interrupts? BAM - Scatter Shot!  
-
-**Scatter Shot Focus while Bursting!**  
-• Don't want to think about CCing with Scatter while Bursting? No worries, I got it under control - I'll even make sure to not overlap with any other CC.  
+**Scatter Shot Big Damage such as Convoke!**  
+• Casts Scatter Shot on your target or focus when they're about to cast a big damaging spell and your Countershot is on Cooldown    
 
 **Feign Death when Low!**
 • Last ditch effort to survive, Feign Death when you're low automatically! Works great when using Survival Tactics.  
 
-**Auto Bursting Shot!**  
-• Automatically casts Bursting Shot when a Melee is in Range.  
+**Auto Focus!**  
+• 2v2 - Automatically focuses whoever you're not targeting  
+• 3v3 - Automatically focuses the Healer  
+
 
 ***
 
@@ -103,29 +104,23 @@ Toggles Burst Preparation mode rotation On (off default) - conserves Focus and a
 Toggles Opener mode On (off default) - automatically turns Off once Opener is started, I recommend you're in Burst mode while using this.    
 `/xxxxx AOE`  
 Toggles automatic AOE On (off default)  
+`/xxxxx ConcFocus`  
+Toggles Concussive Shot to be on Focus instead of Target (off by default, therefore Concussive Shot is on Target)  
 `/xxxxx PhialManual`  
 Toggles Phial of Serenity to be Manual (off default)  
 `/xxxxx DoubleTapManual`  
 Toggles Double Tap to be Manual (off by default, therefore Double Tap is Automatic when bursting)  
 `/xxxxx TrueshotManual`  
 Toggles Trueshot to be Manual (off by default, therefore Trueshot is Automatic when bursting)  
-`/xxxxx ResonatingArrowManual`  
-Toggles Resonating Arrow to be Manual (off by default, therefore Resonating Arrow is Automatic when bursting)  
-`/xxxxx WildSpiritsManual`  
-Toggles Wild Spirits to be Manual (off by default, therefore Wild Spirits is Automatic when bursting)  
+`/xxxxx CovenantManual`  
+Toggles sets Covenant Ability (e.g. Resonating Arrow or Wild Spirits) to be Manual (off by default, therefore Covenant Ability is Automatic when bursting)  
 `/xxxxx RacialManual`  
 Toggles Racial to be Manual (off by default, therefore Racial is Automatic when bursting)  
-`/xxxxx ConcFocus`  
-Toggles Concussive Shot to be on Focus instead of Target (off by default, therefore Concussive Shot is on Target)  
 
 ***
 
 ## Queues:    
 
-`/xxxxx ResonatingArrow`  
-Queues Resonating Arrow on the next GCD  
-`/xxxxx WildSpirits`  
-Queues Wild Spirits on the next GCD  
 `/xxxxx BindingShot`  
 Queues Binding Shot on the next GCD  
 `/xxxxx FreezingTrap`  
@@ -140,8 +135,12 @@ Queues Scatter Shot @ Target on the next GCD
 Queues Scatter Shot @ Focus on the next GCD  
 `/xxxxx Flare`  
 Queues Flare on the next GCD  
+`/xxxxx ResonatingArrow`  
+Queues Resonating Arrow on the next GCD  
+`/xxxxx WildSpirits`  
+Queues Wild Spirits on the next GCD  
 `/xxxxx ConcMO`  
-Queues Concussive Shot @ Mouseover, after casting one Concussive Shot it will be turned off (Not a Queue by default - read more in the Advanced section)    
+Queues Concussive Shot @ Mouseover, after casting one Concussive Shot it will be turned off      
 
 ***
 
