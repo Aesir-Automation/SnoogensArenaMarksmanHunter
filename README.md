@@ -1,4 +1,4 @@
-# Snoogens Arena Marksman Hunter v1.3  
+# Snoogens Arena Marksman Hunter  
 ![alt text](https://i.imgur.com/hkIYw42.png)  
 
 A PVP only rotation with a specific focus on Arena, however with full support for Battleground usage.  
@@ -148,6 +148,7 @@ Queues Concussive Shot @ Mouseover, after casting one Concussive Shot it will be
 **First 5 Letters of the Addon:** - enter your Aimsharp addon's first 5 letters, e.g. if your Aimsharp addon is called `DankMemes`, enter `dankm`.  
 **Ingame World Latency:** - enter your ingame World latency here to make sure rotation and queues are done asap.  
 **Reaction Time (ms):** - enter your preferred reaction time in milliseconds for features such as Hunter's Mark, Tranquilizing Shot etc. I recommend keeping it as default.  
+**Covenant (ms):** - enter your character's Covenant to get the correct macros etc created  
 
 **Trinkets and Phial**
 **Top/Bottom Trinket:** - Set the one to `On-use DPS` that you want to use during Burst, i.e. your on-use damage trinket. Set to `On-use HP` to use automatically at 35%  
@@ -157,17 +158,21 @@ Queues Concussive Shot @ Mouseover, after casting one Concussive Shot it will be
 **Pet**  
 **Auto Call Pet** - Automatically calls the selected pet number that you've selected. Will try to revive if the Pet is dead and you're out of combat.  
 **Call Pet Number:** - Uses the above mentioned feature on the selected pet number.  
-**Auto Mend Pet:** - Uses Mend Pet when the Pet is below 80% and it doesn't have the Mend Pet Buff.  
+**Auto Mend Pet during Standard:** - Uses Mend Pet when the Pet is below set HP%, it doesn't have the Mend Pet Buff and you're not in Burst Mode.  
+**Auto Mend Pet during Burst:** - Uses Mend Pet when the Pet is below set HP%, it doesn't have the Mend Pet Buff and you're in Burst Mode.  
+**Auto Mend Pet @ HP%** - For Auto Mend Pet trigger above  
 
 **Mitigation**  
 **Auto Feign Death Interrupt:** - If you're not moving it will cast Feign Death to interrupt the cast of important spells such as CC or big damage like Chaos Bolt.  
 **Auto Feign Death Dispel:** - If you've got the Survival Tactics talent it will try to remove important debuffs such as Mindgames. If you've got the Craven Strategem Legendary it will also try to remove debuffs such as Spear of Bastion.  
-**Auto Cancel Feign Death:** - It will automatically cancel your Feign Death after it's been cast so you don't lose momentum.  
-**Auto Exhilaration @ HP%** - Uses Exhilaration automatically at the set and below Health percentage. 
-**Auto Turtle @ HP%** - Uses Aspect of the Turtle automatically at the set and below Health percentage. 
-**Auto Roar @ HP%** - Uses Roar of Sacrifice automatically at the set and below Health percentage. 
-**Auto Roar for Party Members:** - Enables the Auto Roar @ HP% to also check party members and Roar on them.  
-**Auto Healthstone @ HP%** - Uses Healthstone automatically at the set and below Health percentage. 
+**Auto Cancel Feign Death:** - It will automatically cancel your Feign Death after it's been cast so you don't lose momentum.   
+**Auto Exhilaration @ HP%** - Uses Exhilaration automatically at the set and below Health percentage.  
+**Auto Turtle @ HP%** - Uses Aspect of the Turtle automatically at the set and below Health percentage.   
+**Auto Turtle DH The Hunt:** - Uses Aspect of the Turtle automatically when a DH has almost finished casting The Hunt on you.   
+**Auto Roar @ HP%** - Uses Roar of Sacrifice automatically at the set and below Health percentage.  
+**Auto Roar for Party Members:** - Enables the Auto Roar @ HP% to also check party members and Roar on them.   
+**Auto Dispel Mindgames (Racial):** - Uses your Racial (Fireblood/Stoneform) automatically when you're under the effect of Mindgames.   
+**Auto Healthstone @ HP%** - Uses Healthstone automatically at the set and below Health percentage.   
 
 **Casting**  
 **Cast Traps @ Cursor:** - Changes your Traps to use @cursor instead of being manually placeable.  
@@ -178,21 +183,22 @@ Queues Concussive Shot @ Mouseover, after casting one Concussive Shot it will be
 **Auto Tranquilizing Shot:** - Automatically shoots Tranquilizing Shot on target's with important buffs (according to selection below), such as Blessing of Protection, Alter Time etc.  
 
 **Miscellaneous**  
-**Auto Hunters Mark:** - Automatically places Hunter's Mark if there's a Rogue in Arena.  
+**Auto Scatter Shot Focus during Burst** - Automatically casts Scatter Shot on your Focus target when you're in Burst mode.  
+**Auto Hunters Mark:** - Automatically places Hunter's Mark if there's a Rogue in Arena (or Mage casting Invisibility).  
 **Auto Spider Sting:** - Automatically shoots Spider Sting on arena1-3 if they are casters with an important buff, such as Combustion etc.  
 **Auto Scorpid Sting:** - Automatically shoots Scorpid Sting on arena1-3 if they are a physical damage class with an important buff, such as Avatar, Shadow Dance etc.  
 **Auto Camouflage:** - Automatically uses Camouflage in Arena when the gates open. If your pet is on passive or dead it will automatically Camouflage after you Feign Death.  
-**Auto Retarget Feign Death:** - Automatically retargets the Hunter after your target drops from said Hunter's Feign Death.  
 
 **Auto Focus**  
 **Auto Focus non-target 2v2:** - Automatically sets focus on the enemy arena player who isn't your target in a 2v2.  
 **Auto Focus Healer 3v3:** - Automatically sets focus on the enemy arena player who is a Healer. One enemy player dies so only two remains, it falls back to focusing who isn't your target.  
 
+
 ***
 
 ## More to come, based on your feedback!  
 Please provide me with your direct feedback on my Discord - https://discord.gg/VksJWWk9PS.  
-A feature not working as expected? Rotation not performing what you believe is optimal? Anything! Please leave a note in #feedback-and-suggestions or #troubleshooting  
+A feature not working as expected? Rotation not performing what you believe is optimal? Anything! Please leave a note in `#feedback-and-suggestions` or `#troubleshooting`  
 
 ***
 
