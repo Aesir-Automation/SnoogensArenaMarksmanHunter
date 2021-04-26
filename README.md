@@ -15,7 +15,7 @@ Channel `#changelog-aimsharp-arenakicks`
 If you don't you will reach the macro limit  
 
 WeakAura: https://wago.io/tBAGLnkxe  
-Password: `aimsharp`
+Password: `aimsharp`  
 
 ***
 
