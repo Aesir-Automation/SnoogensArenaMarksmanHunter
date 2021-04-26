@@ -14,6 +14,9 @@ If you use Aimsharp's ArenaPVP Kicks plugin, please download the modified versio
 Channel `#changelog-aimsharp-arenakicks`  
 If you don't you will reach the macro limit  
 
+WeakAura: https://wago.io/tBAGLnkxe  
+Password: `aimsharp`
+
 ***
 
 ## Featuring:  
