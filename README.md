@@ -1,4 +1,4 @@
-# Snoogens Arena Marksman Hunter  
+# Snoogens Arena Marksman Hunter OUTDATED  
 ![alt text](https://i.imgur.com/hkIYw42.png)  
 
 A PVP only rotation with a specific focus on Arena, however with full support for Battleground usage.  
